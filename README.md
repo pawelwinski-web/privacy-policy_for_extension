@@ -1,0 +1,1 @@
+# privacy-policy_for_extension
