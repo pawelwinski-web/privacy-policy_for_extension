@@ -1,6 +1,6 @@
-# Polityka prywatności rozszerzenia Scout
+# Polityka prywatności dla Scout
 
-**Ostatnia aktualizacja:** 28 lutego 2026 r.
+**Ostatnia aktualizacja:** 2 marca 2026 r.
 
 **Deweloper:** Paweł Wiński
 
@@ -12,13 +12,21 @@ Niniejsza Polityka prywatności opisuje, w jaki sposób Scout ("my", "nasz" lub 
 
 ## Jakie informacje zbieramy
 
-**NIE gromadzimy żadnych danych ani informacji osobowych.**
+Możemy gromadzić następujące rodzaje informacji:
 
-Scout został zaprojektowany z myślą o prywatności. Wszelkie dane, jeśli w ogóle są przechowywane, znajdują się lokalnie na Twoim urządzeniu i nigdy nie są przesyłane na zewnętrzne serwery.
+### Dane osobowe
+- Informacje, które podajesz bezpośrednio
+- Gromadzone wyłącznie, gdy jest to niezbędne dla działania funkcjonalności
+- Nigdy nie są sprzedawane ani udostępniane podmiotom trzecim
 
 ## Jak wykorzystujemy Twoje informacje
 
-Ponieważ nie zbieramy żadnych danych, nie wykorzystujemy Twoich informacji. Cała funkcjonalność rozszerzenia Chrome działa lokalnie na Twoim urządzeniu.
+Wykorzystujemy zebrane informacje w celu:
+
+- Zapewnienia i utrzymania działania Scout
+- Ulepszania doświadczenia użytkownika
+- Zrozumienia wzorców korzystania
+- Naprawy błędów i problemów technicznych
 
 ## Usługi stron trzecich
 
@@ -26,16 +34,21 @@ Scout nie korzysta z żadnych usług ani narzędzi analitycznych podmiotów trze
 
 ## Przechowywanie danych i bezpieczeństwo
 
-Wszystkie dane są przechowywane lokalnie na Twoim urządzeniu. Nie mamy dostępu do Twoich danych i nigdy nie są one przesyłane na nasze serwery ani do jakichkolwiek podmiotów trzecich.
+Wdrażamy odpowiednie środki bezpieczeństwa w celu ochrony Twoich informacji:
+
+- Bezpieczna transmisja danych (HTTPS)
+- Szyfrowanie pamięci lokalnej, gdy ma to zastosowanie
+- Regularne aktualizacje zabezpieczeń
+- Brak sprzedaży lub udostępniania danych
 
 ## Twoje prawa
 
 Przysługują Ci następujące prawa w odniesieniu do Twoich danych:
 
 - **Dostęp:** wgląd w to, jakie dane posiadamy (jeśli jakiekolwiek)
-- **Usunięcie:** usunięcie Twoich danych poprzez odinstalowanie rozszerzenia Chrome
+- **Usunięcie:** usuń swoje dane, odinstalowując rozszerzenie Chrome
 - **Przenoszalność:** eksport Twoich danych, gdy ma to zastosowanie
-- **Rezygnacja (opt-out):** wyłączenie funkcji, z których nie chcesz korzystać
+- **Rezygnacja (opt-out):** wyłącz funkcje, z których nie chcesz korzystać
 
 ## Zgodność
 
@@ -54,7 +67,7 @@ Spełniamy wymogi California Consumer Privacy Act (CCPA):
 
 ## Zmiany w niniejszej Polityce
 
-Możemy okresowo aktualizować niniejszą Politykę prywatności. Zmiany będą publikowane na tej stronie wraz z aktualną datą. Dalsze korzystanie z Scout po wprowadzeniu zmian oznacza akceptację zaktualizowanej polityki.
+Możemy od czasu do czasu aktualizować niniejszą Politykę prywatności. Zmiany będą publikowane na tej stronie wraz z aktualną datą. Dalsze korzystanie z Scout po wprowadzeniu zmian oznacza akceptację zaktualizowanej polityki.
 
 ## Kontakt
 
@@ -66,6 +79,6 @@ Dążymy do udzielania odpowiedzi na wszystkie zapytania w ciągu 48 godzin.
 
 ---
 
-**Data wejścia w życie:** 28 lutego 2026 r.
+**Data wejścia w życie:** 2 marca 2026 r.
 
 Korzystając z Scout, potwierdzasz, że zapoznałeś(-aś) się z niniejszą Polityką prywatności i ją rozumiesz.
