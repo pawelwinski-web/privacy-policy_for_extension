@@ -1,114 +1,120 @@
-# Polityka prywatności dla Scout
+# Privacy Policy for Scout
 
-**Ostatnia aktualizacja:** 3 marca 2026 r.  
-**Deweloper:** Paweł Wiński
-
----
-
-## Wprowadzenie
-
-Niniejsza Polityka prywatności opisuje, w jaki sposób Scout („rozszerzenie”) przetwarza dane w ramach swojego działania. Scout jest prywatnym rozszerzeniem Chrome wykorzystywanym wyłącznie przez autoryzowanych pracowników w ramach organizacji.
-
-Rozszerzenie nie jest przeznaczone do użytku publicznego i nie zbiera danych od ogólnych użytkowników przeglądarki Chrome.
+**Last updated:** March 3, 2026  
+**Developer:** Paweł Wiński
 
 ---
 
-## Zakres działania rozszerzenia
+## Introduction
 
-Scout działa jako narzędzie automatyzujące wewnętrzne procesy operacyjne poprzez techniczne przekazywanie danych pomiędzy systemami kontrolowanymi przez organizację.
+This Privacy Policy describes how Scout ("the extension") handles data during its operation. Scout is a private Chrome extension used exclusively by authorized employees within the organization.
 
-Rozszerzenie nie udostępnia funkcjonalności użytkownikom zewnętrznym i nie służy do pozyskiwania danych od konsumentów.
-
----
-
-## Kategorie przetwarzanych danych
-
-W ramach swojego działania Scout może przetwarzać następujące dane operacyjne:
-
-- Numer zgłoszenia (ticketNumber)
-- Wewnętrzny identyfikator konta (accountID)
-- Imię i nazwisko (fullName)
-- Kwota rekompensaty (compensationAmount)
-- Numer rachunku bankowego (bankAccountNumber)
-
-Dane te:
-- pochodzą z wewnętrznego systemu Salesforce,
-- są już dostępne w systemach organizacji przed użyciem rozszerzenia,
-- nie są pozyskiwane bezpośrednio od użytkowników przeglądarki Chrome.
+The extension is not intended for public use and does not collect data from general Chrome users.
 
 ---
 
-## Cel przetwarzania danych
+## Scope of the Extension
 
-Dane są przetwarzane wyłącznie w celu:
-- automatyzacji wewnętrznych procesów,
-- ograniczenia ręcznego przepisywania danych,
-- usprawnienia obsługi zgłoszeń,
-- zwiększenia efektywności operacyjnej.
+Scout functions as a tool to automate internal operational workflows by transferring data between systems controlled by the organization.
 
-Dane nie są wykorzystywane do:
-- celów reklamowych,
-- analityki marketingowej,
-- profilowania użytkowników,
-- sprzedaży lub monetyzacji.
+The extension does not provide functionality to external users and is not designed to collect data from consumers.
 
 ---
 
-## Przepływ danych i udostępnianie
+## Categories of Processed Data
 
-Dane przetwarzane przez Scout:
-- pochodzą z wewnętrznego środowiska Salesforce,
-- są przekazywane wyłącznie do firmowego arkusza Google Sheets w ramach Google Workspace,
-- pozostają w infrastrukturze kontrolowanej przez organizację.
+Scout may process the following operational data:
 
-Rozszerzenie:
-- nie udostępnia danych podmiotom trzecim,
-- nie przekazuje danych poza organizację,
-- nie sprzedaje danych,
-- nie udostępnia danych publicznie.
+- Ticket number (ticketNumber)  
+- Internal account ID (accountID)  
+- Full name (fullName)  
+- Compensation amount (compensationAmount)  
+- Bank account number (bankAccountNumber)  
 
-Dostęp do danych posiadają wyłącznie autoryzowani pracownicy.
+These data:
+
+- originate from the internal Salesforce system,  
+- are already available in the organization’s systems before using the extension,  
+- are not collected directly from general Chrome users.
 
 ---
 
-## Przechowywanie danych
+## Purpose of Data Processing
 
-Scout nie przechowuje danych osobowych we własnej, niezależnej bazie danych.
+The data is processed solely to:
 
-Rozszerzenie działa wyłącznie jako mechanizm technicznego transferu danych pomiędzy systemami.
+- automate internal workflows,  
+- reduce manual copy-paste operations,  
+- improve case handling efficiency,  
+- enhance operational productivity.  
 
-Okres przechowywania danych regulowany jest przez wewnętrzne polityki organizacji obowiązujące w systemach:
-- Salesforce
+The extension does not use data for:
+
+- advertising,  
+- marketing analytics,  
+- user profiling,  
+- selling or monetization.
+
+---
+
+## Data Flow and Sharing
+
+Data processed by Scout:
+
+- comes from the company’s internal Salesforce environment,  
+- is transmitted only to a company-controlled Google Sheet within Google Workspace,  
+- remains within infrastructure controlled by the organization.  
+
+The extension:
+
+- does not share data with third parties,  
+- does not transfer data outside the organization,  
+- does not sell data,  
+- does not expose data publicly.  
+
+Only authorized employees have access to the data.
+
+---
+
+## Data Storage
+
+Scout does not store personal data in any independent database.
+
+The extension functions solely as a technical mechanism to transfer data between systems.
+
+Data retention is governed by internal company policies applied to:
+
+- Salesforce  
 - Google Workspace
 
 ---
 
-## Bezpieczeństwo
+## Security
 
-Transmisja danych odbywa się z wykorzystaniem bezpiecznego połączenia HTTPS.
+Data transmission occurs over secure HTTPS connections.
 
-Rozszerzenie nie wykorzystuje zewnętrznych serwerów ani dodatkowych baz danych.
+The extension does not use external servers or additional databases.
 
-Dostęp do systemów jest ograniczony do autoryzowanego personelu.
-
----
-
-## Zgodność z przepisami
-
-Scout działa w ramach obowiązujących w organizacji zasad ochrony danych, w tym zgodnie z wymaganiami RODO, w zakresie mającym zastosowanie.
-
-Rozszerzenie nie podejmuje zautomatyzowanych decyzji ani nie profiluje użytkowników.
+Access to systems is limited to authorized personnel.
 
 ---
 
-## Kontakt
+## Compliance
 
-W przypadku pytań dotyczących niniejszej Polityki prywatności:
+Scout operates within the organization’s data protection framework and complies with applicable GDPR requirements where relevant.
 
-**E-mail:** pawel.winski@olx.pl
+The extension does not perform automated decision-making or user profiling.
 
 ---
 
-**Data wejścia w życie:** 3 marca 2026 r.
+## Contact
 
-Korzystanie z rozszerzenia oznacza akceptację niniejszej Polityki prywatności.
+For any questions regarding this Privacy Policy:
+
+**Email:** pawel.winski@olx.pl
+
+---
+
+**Effective date:** March 3, 2026
+
+Using the extension indicates your acceptance of this Privacy Policy.
