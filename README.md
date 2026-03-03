@@ -1,84 +1,112 @@
-# Polityka prywatności dla Scout
+Polityka prywatności dla Scout
 
-**Ostatnia aktualizacja:** 2 marca 2026 r.
+Ostatnia aktualizacja: 2 marca 2026 r.
+Deweloper: Paweł Wiński
 
-**Deweloper:** Paweł Wiński
+1. Zakres działania rozszerzenia
 
----
+Scout jest prywatnym rozszerzeniem Chrome wykorzystywanym wyłącznie przez autoryzowanych pracowników w ramach organizacji.
 
-## Wprowadzenie
+Rozszerzenie nie jest przeznaczone do użytku publicznego i nie jest dystrybuowane do ogólnych użytkowników Chrome.
 
-Niniejsza Polityka prywatności opisuje, w jaki sposób Scout ("my", "nasz" lub "rozszerzenie Chrome") gromadzi, wykorzystuje i chroni Twoje informacje. Zobowiązujemy się do ochrony Twojej prywatności oraz do przejrzystości naszych praktyk dotyczących danych.
+Scout nie zbiera danych osobowych od ogólnych użytkowników przeglądarki Chrome.
 
-## Jakie informacje zbieramy
+2. Kategorie przetwarzanych danych
 
-Możemy gromadzić następujące rodzaje informacji:
+Scout umożliwia techniczne przekazywanie danych operacyjnych pomiędzy wewnętrznymi systemami firmy.
 
-### Dane osobowe
-- Informacje, które podajesz bezpośrednio
-- Gromadzone wyłącznie, gdy jest to niezbędne dla działania funkcjonalności
-- Nigdy nie są sprzedawane ani udostępniane podmiotom trzecim
+Rozszerzenie może przetwarzać następujące dane:
 
-## Jak wykorzystujemy Twoje informacje
+Numer zgłoszenia (ticketNumber)
 
-Wykorzystujemy zebrane informacje w celu:
+Wewnętrzny identyfikator konta (accountID)
 
-- Zapewnienia i utrzymania działania Scout
-- Ulepszania doświadczenia użytkownika
-- Zrozumienia wzorców korzystania
-- Naprawy błędów i problemów technicznych
+Imię i nazwisko (fullName)
 
-## Usługi stron trzecich
+Kwota rekompensaty (compensationAmount)
 
-Scout nie korzysta z żadnych usług ani narzędzi analitycznych podmiotów trzecich.
+Numer rachunku bankowego (bankAccountNumber)
 
-## Przechowywanie danych i bezpieczeństwo
+Dane te są już dostępne w wewnętrznych systemach firmy przed użyciem rozszerzenia.
 
-Wdrażamy odpowiednie środki bezpieczeństwa w celu ochrony Twoich informacji:
+Scout nie pozyskuje tych danych samodzielnie od użytkowników ani z zewnętrznych źródeł.
 
-- Bezpieczna transmisja danych (HTTPS)
-- Szyfrowanie pamięci lokalnej, gdy ma to zastosowanie
-- Regularne aktualizacje zabezpieczeń
-- Brak sprzedaży lub udostępniania danych
+3. Cel przetwarzania danych
 
-## Twoje prawa
+Dane są przetwarzane wyłącznie w celu:
 
-Przysługują Ci następujące prawa w odniesieniu do Twoich danych:
+Automatyzacji wewnętrznych procesów operacyjnych
 
-- **Dostęp:** wgląd w to, jakie dane posiadamy (jeśli jakiekolwiek)
-- **Usunięcie:** usuń swoje dane, odinstalowując rozszerzenie Chrome
-- **Przenoszalność:** eksport Twoich danych, gdy ma to zastosowanie
-- **Rezygnacja (opt-out):** wyłącz funkcje, z których nie chcesz korzystać
+Ograniczenia ręcznego przepisywania danych
 
-## Zgodność
+Usprawnienia obsługi zgłoszeń
 
-### Zgodność z RODO (użytkownicy z UE)
-Spełniamy wymogi ogólnego rozporządzenia o ochronie danych (RODO):
-- Minimalne gromadzenie danych
-- Jasne mechanizmy zgody
-- Prawo dostępu, usunięcia i przenoszenia danych
-- Brak zautomatyzowanego podejmowania decyzji
+Zwiększenia efektywności pracy
 
-### Zgodność z CCPA (użytkownicy z Kalifornii)
-Spełniamy wymogi California Consumer Privacy Act (CCPA):
-- Nie sprzedajemy danych osobowych
-- Możesz zażądać usunięcia danych
-- Możesz zrezygnować z gromadzenia danych
+Rozszerzenie nie wykorzystuje danych do:
 
-## Zmiany w niniejszej Polityce
+Celów reklamowych
 
-Możemy od czasu do czasu aktualizować niniejszą Politykę prywatności. Zmiany będą publikowane na tej stronie wraz z aktualną datą. Dalsze korzystanie z Scout po wprowadzeniu zmian oznacza akceptację zaktualizowanej polityki.
+Analityki marketingowej
 
-## Kontakt
+Profilowania użytkowników
 
-Jeśli masz pytania, wątpliwości lub prośby dotyczące niniejszej Polityki prywatności:
+Monetyzacji
 
-**E-mail:** pawel.winski@olx.pl
+4. Przepływ danych i udostępnianie
 
-Dążymy do udzielania odpowiedzi na wszystkie zapytania w ciągu 48 godzin.
+Dane przetwarzane przez Scout:
 
----
+Pochodzą z wewnętrznego środowiska Salesforce firmy
 
-**Data wejścia w życie:** 2 marca 2026 r.
+Są przekazywane wyłącznie do firmowego arkusza Google Sheets w ramach Google Workspace
 
-Korzystając z Scout, potwierdzasz, że zapoznałeś(-aś) się z niniejszą Polityką prywatności i ją rozumiesz.
+Pozostają w infrastrukturze kontrolowanej przez organizację
+
+Rozszerzenie:
+
+Nie udostępnia danych podmiotom trzecim
+
+Nie przekazuje danych poza organizację
+
+Nie sprzedaje danych
+
+Nie udostępnia danych publicznie
+
+Dostęp do systemów mają wyłącznie autoryzowani pracownicy.
+
+5. Przechowywanie danych
+
+Scout nie przechowuje danych osobowych we własnej, niezależnej bazie danych.
+
+Rozszerzenie działa wyłącznie jako mechanizm technicznego transferu danych pomiędzy systemami.
+
+Okres przechowywania danych regulowany jest przez wewnętrzne polityki firmy obowiązujące w systemach:
+
+Salesforce
+
+Google Workspace
+
+6. Bezpieczeństwo
+
+Transmisja danych odbywa się z wykorzystaniem bezpiecznego połączenia HTTPS.
+
+Rozszerzenie nie wprowadza dodatkowych zewnętrznych serwerów ani zewnętrznych baz danych.
+
+Dostęp do danych ograniczony jest do autoryzowanego personelu.
+
+7. Zgodność z przepisami
+
+Scout działa w ramach obowiązujących w organizacji zasad ochrony danych, w tym zgodnie z wymaganiami RODO, w zakresie mającym zastosowanie.
+
+Rozszerzenie nie podejmuje zautomatyzowanych decyzji.
+
+8. Kontakt
+
+W przypadku pytań dotyczących niniejszej Polityki prywatności:
+
+E-mail: pawel.winski@olx.pl
+
+Data wejścia w życie: 2 marca 2026 r.
+
+Korzystanie z rozszerzenia oznacza akceptację niniejszej Polityki prywatności.
