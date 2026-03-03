@@ -1,6 +1,6 @@
 # Polityka prywatności dla Scout
 
-**Ostatnia aktualizacja:** 2 marca 2026 r.  
+**Ostatnia aktualizacja:** 3 marca 2026 r.  
 **Deweloper:** Paweł Wiński
 
 ---
@@ -109,6 +109,6 @@ W przypadku pytań dotyczących niniejszej Polityki prywatności:
 
 ---
 
-**Data wejścia w życie:** 2 marca 2026 r.
+**Data wejścia w życie:** 3 marca 2026 r.
 
 Korzystanie z rozszerzenia oznacza akceptację niniejszej Polityki prywatności.
